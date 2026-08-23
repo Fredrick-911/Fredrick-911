@@ -1,7 +1,6 @@
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Collins%20Powell&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Mechanical%20Engineer%20%7C%20IoT%20Builder%20%7C%20AI%20Explorer&descAlignY=55&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Fredrick%20Okwomboli&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Mechanical%20Engineer%20%7C%20IoT%20Builder%20%7C%20AI%20Explorer&descAlignY=55&descSize=18"
     width="100%"
   />
 </p>
@@ -13,211 +12,237 @@
   />
 </p>
 
-
-<!-- ============================================================
-     SOCIAL LINKS
-     ============================================================ -->
-
 <p align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/fredrickokwomboli/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:fredrickokwomboli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Fredrick-911">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="#about-me">About</a> •
+  <a href="#current-focus">Focus</a> •
+  <a href="#featured-projects">Projects</a> •
+  <a href="#engineering--technology-stack">Stack</a> •
+  <a href="#system-approach">Approach</a> •
+  <a href="#github-activity">Activity</a>
+</p>
 
-<!-- ============================================================
-     ABOUT ME
-     ============================================================ -->
+---
 
-# About Me
+## About Me
 
-name: Collins Powell
+**Fredrick Okwomboli** — Mechanical Engineer · IoT Builder · AI Explorer, based in Kenya 🇰🇪
 
-background:
-  - Mechanical & Energy Engineering
-  - Engineering design and simulation
-  - Embedded systems and IoT
-  - Artificial Intelligence applications
+> I enjoy working at the intersection of physical systems and software — turning engineering ideas into systems that can solve real-world problems.
 
-currently_building:
-  - Intelligent IoT systems
-  - EV and off-road mobility concepts
-  - AI-powered safety and verification systems
-  - Digital platforms solving African challenges
+**Background**
+- Mechanical & Energy Engineering
+- Engineering design and simulation
+- Embedded systems and IoT
+- Artificial Intelligence applications
 
-interests:
-  - Electric vehicles
-  - Embedded systems
-  - Smart infrastructure
-  - Engineering simulation
-  - Artificial Intelligence
-  - Product development
+**Currently Building**
+- Intelligent IoT systems
+- EV and off-road mobility concepts
+- AI-powered safety and verification systems
+- Digital platforms solving African challenges
 
-philosophy: >
-  I enjoy working at the intersection of physical systems
-  and software — turning engineering ideas into systems
-  that can solve real-world problems.
+**Interests**
+Electric Vehicles · Embedded Systems · Smart Infrastructure · Engineering Simulation · Artificial Intelligence · Product Development
 
-location: Kenya 🇰🇪
-<!-- ============================================================ CURRENT FOCUS ============================================================ -->
-Current Focus
-Designing and exploring an electric 4×4 powertrain for rough-terrain mobility.
-Building IoT-connected systems using embedded devices, cloud platforms, and real-time communication.
-Exploring AI applications including deepfake detection and intelligent decision systems.
-Learning more about finite element analysis, numerical simulation, and engineering software.
-Building technology with a focus on practical challenges in Africa and emerging markets.
-<!-- ============================================================ FEATURED PROJECTS ============================================================ -->
-Featured Projects
-ProLock
+---
 
+## Current Focus
+
+- 🚙 Designing and exploring an electric 4×4 powertrain for rough-terrain mobility
+- 📡 Building IoT-connected systems using embedded devices, cloud platforms, and real-time communication
+- 🧠 Exploring AI applications including deepfake detection and intelligent decision systems
+- 🧮 Learning finite element analysis, numerical simulation, and engineering software
+- 🌍 Building technology with a focus on practical challenges in Africa and emerging markets
+
+---
+
+## Featured Projects
+
+### 🔐 ProLock
 A smart access-control system designed for gyms and small service providers.
 
-What it explores:
+**What it explores:**
+- PIN-based access control
+- Smart locks and embedded hardware
+- Cloud-connected membership verification
+- Real-time attendance monitoring
+- Revenue and facility usage visibility
 
-PIN-based access control
-Smart locks and embedded hardware
-Cloud-connected membership verification
-Real-time attendance monitoring
-Revenue and facility usage visibility
+**Stack:** IoT · Embedded Systems · Cloud · Web Development
 
-Stack: IoT · Embedded Systems · Cloud · Web Development
+---
 
-EV 4×4 Mobility Project
-
+### 🚙 EV 4×4 Mobility Project
 A mechanical and electrical engineering project exploring an electric vehicle designed for rocky and rough terrain.
 
-Focus areas:
+**Focus areas:**
+- Four independent wheel motors
+- Electric powertrain architecture
+- Wheel and tyre configuration
+- Ground clearance
+- Approach, departure, and breakover angles
+- Vehicle mobility and off-road performance
 
-Four independent wheel motors
-Electric powertrain architecture
-Wheel and tyre configuration
-Ground clearance
-Approach, departure, and breakover angles
-Vehicle mobility and off-road performance
+**Tools & Concepts:** Mechanical Design · EV Systems · FEA · Vehicle Dynamics
 
-Tools & Concepts: Mechanical Design · EV Systems · FEA · Vehicle Dynamics
+---
 
-Afriguard
-
+### 🛡️ Afriguard
 An AI-powered deepfake detection concept focused on African faces and WhatsApp accessibility.
 
-System components:
+**System components:**
+- Image deepfake detection
+- Voice verification
+- Vision Transformer models
+- WavLM-based audio analysis
+- FastAPI backend
+- WhatsApp-first accessibility
 
-Image deepfake detection
-Voice verification
-Vision Transformer models
-WavLM-based audio analysis
-FastAPI backend
-WhatsApp-first accessibility
+**Stack:** Python · FastAPI · PyTorch · Transformers · AI/ML
 
-Stack: Python · FastAPI · PyTorch · Transformers · AI/ML
+---
 
-MamaAlert
-
+### 🤰 MamaAlert
 A maternal health surveillance and early-warning concept designed around low-connectivity environments.
 
-Focus:
+**Focus:**
+- Community health worker workflows
+- High-risk pregnancy identification
+- Early warning systems
+- Referral coordination
+- Feature phone accessibility
+- Offline and low-bandwidth environments
 
-Community health worker workflows
-High-risk pregnancy identification
-Early warning systems
-Referral coordination
-Feature phone accessibility
-Offline and low-bandwidth environments
+**Stack:** IoT · AI · FastAPI · GIS · Mobile Communication
 
-Stack: IoT · AI · FastAPI · GIS · Mobile Communication
+---
 
-HerCycle
-
+### 💬 HerCycle
 A conversational menstrual health platform designed around WhatsApp accessibility.
 
-Features explored:
+**Features explored:**
+- AI-powered conversations
+- WhatsApp integration
+- Risk scoring
+- Real-time doctor dashboards
+- GIS visualization
+- WebSocket communication
 
-AI-powered conversations
-WhatsApp integration
-Risk scoring
-Real-time doctor dashboards
-GIS visualization
-WebSocket communication
+**Stack:** FastAPI · MongoDB · WebSockets · AI · GIS
 
-Stack: FastAPI · MongoDB · WebSockets · AI · GIS
+---
 
-<!-- ============================================================ ENGINEERING & TECHNOLOGY STACK ============================================================ -->
-Engineering & Technology Stack
-Engineering & Simulation
-<p> <img src="https://img.shields.io/badge/Finite_Element_Analysis-00599C?style=for-the-badge" /> <img src="https://img.shields.io/badge/CalculiX-003B5C?style=for-the-badge" /> <img src="https://img.shields.io/badge/FEniCS-2C3E50?style=for-the-badge" /> <img src="https://img.shields.io/badge/PrePoMax-4B5563?style=for-the-badge" /> </p>
-Programming
-<p> <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" /> </p>
-Backend & APIs
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" /> </p>
-Frontend
-<p> <img src="https://skillicons.dev/icons?i=react,tailwind,vite" /> </p>
-Databases & Cloud
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" /> </p>
-AI & Machine Learning
-<p> <img src="https://skillicons.dev/icons?i=python,pytorch" /> <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" /> </p>
-IoT & Infrastructure
-<p> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" /> <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </p> <!-- ============================================================ WHAT I LIKE BUILDING ============================================================ -->
-What I Like Building
-Physical System
-       │
-       ▼
-Sensors & Embedded Hardware
-       │
-       ▼
-Communication Layer
-MQTT • APIs • WebSockets
-       │
-       ▼
-Cloud / Backend
-       │
-       ▼
-AI & Data Processing
-       │
-       ▼
-Web or Mobile Interface
-       │
-       ▼
-Real-World Decision / Action
+## Engineering & Technology Stack
+
+**Engineering & Simulation**
+<p>
+  <img src="https://img.shields.io/badge/Finite_Element_Analysis-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CalculiX-003B5C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FEniCS-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PrePoMax-4B5563?style=for-the-badge" />
+</p>
+
+**Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+**Databases & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+**AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
+</p>
+
+**IoT & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## System Approach
+
+```mermaid
+flowchart TD
+    A[Physical System] --> B[Sensors & Embedded Hardware]
+    B --> C["Communication Layer<br/>MQTT · APIs · WebSockets"]
+    C --> D[Cloud / Backend]
+    D --> E[AI & Data Processing]
+    E --> F[Web or Mobile Interface]
+    F --> G[Real-World Decision / Action]
+```
 
 I am particularly interested in systems where mechanical engineering meets electronics, software, and intelligence.
 
-<!-- ============================================================ GITHUB STATS ============================================================ -->
-GitHub Activity
+---
+
+## GitHub Activity
+
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
-
-</p> <!-- ============================================================ STREAK ============================================================ --> <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
-
-</p> <!-- ============================================================ CONTRIBUTION GRAPH ============================================================ -->
-Contribution Activity
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" />
-
-</p> <!-- ============================================================ SNAKE ANIMATION ============================================================ -->
-Watch My Contributions Move
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
+</p>
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+### Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" />
+</p>
 
-</p> <!-- ============================================================ VISITORS ============================================================ --> <p align="center">
+### Watch My Contributions Move
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-</p> <!-- ============================================================ FOOTER ============================================================ --> <p align="center"> <i> Engineering systems. Building technology. Solving real problems. </i> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" /> </p> 
+---
+
+<p align="center"><i>Engineering systems. Building technology. Solving real problems.</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
