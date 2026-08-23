@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Collins%20Powell&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Mechanical%20Engineer%20%7C%20IoT%20Developer%20%7C%20Building%20for%20Africa&descAlignY=55&descSize=16" />
