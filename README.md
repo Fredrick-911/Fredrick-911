@@ -26,11 +26,11 @@
 
 <p align="center">
   <a href="#engineering--technology-stack">Stack</a> •
-  <a href="#about-me">About</a> •
+  <a href="#github-activity">Activity</a> •
   <a href="#current-focus">Focus</a> •
   <a href="#featured-projects">Projects</a> •
   <a href="#system-approach">Approach</a> •
-  <a href="#github-activity">Activity</a>
+  <a href="#about-me">About</a>
 </p>
 
 ---
@@ -85,10 +85,34 @@
 
 ---
 
-## About Me
+## GitHub Activity
 
-**Collins Powell** — Mechanical Engineer · IoT Builder · AI Explorer, based in Kenya 🇰🇪
-Mechanical & Energy Engineering background, working across embedded systems, IoT, and AI to build practical technology for African markets.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fredrick-911&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick-911&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fredrick-911&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fredrick-911&theme=transparent&hide_border=true" />
+</p>
+
+### Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fredrick-911&theme=github-compact&hide_border=true" />
+</p>
+
+### Watch My Contributions Move
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fredrick-911/Fredrick-911/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fredrick-911&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -194,34 +218,10 @@ I am particularly interested in systems where mechanical engineering meets elect
 
 ---
 
-## GitHub Activity
+## About Me
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fredrick-911&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick-911&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fredrick-911&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fredrick-911&theme=transparent&hide_border=true" />
-</p>
-
-### Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fredrick-911&theme=github-compact&hide_border=true" />
-</p>
-
-### Watch My Contributions Move
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fredrick-911/Fredrick-911/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fredrick-911&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+**Fredrick Okwomboli** — Mechanical Engineer · IoT Builder · AI Explorer, based in Kenya 🇰🇪
+Mechanical & Energy Engineering background, working across embedded systems, IoT, and AI to build practical technology for African markets.
 
 ---
 
