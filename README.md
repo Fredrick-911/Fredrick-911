@@ -85,34 +85,34 @@
 
 ---
 
-## GitHub Activity
 
-<p align="center">
+
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fredrick-911&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick-911&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fredrick-911&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Fredrick-911&theme=transparent&hide_border=true" />
-</p>
+</p> -->
 
 ### Contribution Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fredrick-911&theme=github-compact&hide_border=true" />
 </p>
 
-### Watch My Contributions Move
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Fredrick-911/Fredrick-911/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fredrick-911&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 ---
 
