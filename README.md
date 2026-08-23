@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Fredrick%20Okwomboli&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Mechanical%20Engineer%20%7C%20IoT%20Builder%20%7C%20AI%20Explorer&descAlignY=55&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=FREDRICK%20OKWOMBOLI&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Mechanical%20Engineer%20%7C%20IoT%20Builder%20%7C%20AI%20Explorer&descAlignY=55&descSize=18"
     width="100%"
   />
 </p>
@@ -25,36 +25,70 @@
 </p>
 
 <p align="center">
+  <a href="#engineering--technology-stack">Stack</a> •
   <a href="#about-me">About</a> •
   <a href="#current-focus">Focus</a> •
   <a href="#featured-projects">Projects</a> •
-  <a href="#engineering--technology-stack">Stack</a> •
   <a href="#system-approach">Approach</a> •
   <a href="#github-activity">Activity</a>
 </p>
 
 ---
 
+## Engineering & Technology Stack
+
+**Engineering & Simulation**
+<p>
+  <img src="https://img.shields.io/badge/Finite_Element_Analysis-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CalculiX-003B5C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FEniCS-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PrePoMax-4B5563?style=for-the-badge" />
+</p>
+
+**Programming**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+</p>
+
+**Databases & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+**AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
+  <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
+</p>
+
+**IoT & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
 ## About Me
 
-**Fredrick Okwomboli** — Mechanical Engineer · IoT Builder · AI Explorer, based in Kenya 🇰🇪
-
-> I enjoy working at the intersection of physical systems and software — turning engineering ideas into systems that can solve real-world problems.
-
-**Background**
-- Mechanical & Energy Engineering
-- Engineering design and simulation
-- Embedded systems and IoT
-- Artificial Intelligence applications
-
-**Currently Building**
-- Intelligent IoT systems
-- EV and off-road mobility concepts
-- AI-powered safety and verification systems
-- Digital platforms solving African challenges
-
-**Interests**
-Electric Vehicles · Embedded Systems · Smart Infrastructure · Engineering Simulation · Artificial Intelligence · Product Development
+**Collins Powell** — Mechanical Engineer · IoT Builder · AI Explorer, based in Kenya 🇰🇪
+Mechanical & Energy Engineering background, working across embedded systems, IoT, and AI to build practical technology for African markets.
 
 ---
 
@@ -144,56 +178,6 @@ A conversational menstrual health platform designed around WhatsApp accessibilit
 
 ---
 
-## Engineering & Technology Stack
-
-**Engineering & Simulation**
-<p>
-  <img src="https://img.shields.io/badge/Finite_Element_Analysis-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CalculiX-003B5C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FEniCS-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PrePoMax-4B5563?style=for-the-badge" />
-</p>
-
-**Programming**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
-</p>
-
-**Backend & APIs**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
-</p>
-
-**Databases & Cloud**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
-</p>
-
-**AI & Machine Learning**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch" />
-  <img src="https://img.shields.io/badge/Transformers-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge" />
-</p>
-
-**IoT & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
 ## System Approach
 
 ```mermaid
@@ -213,30 +197,30 @@ I am particularly interested in systems where mechanical engineering meets elect
 ## GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fredrick-911&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fredrick-911&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fredrick-911&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Fredrick-911&theme=transparent&hide_border=true" />
 </p>
 
 ### Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fredrick-911&theme=github-compact&hide_border=true" />
 </p>
 
 ### Watch My Contributions Move
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Fredrick-911/Fredrick-911/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Fredrick-911&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
